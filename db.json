@@ -1,0 +1,74 @@
+{
+  "detailList": [
+    {
+      "firstName": "ujwal",
+      "middleName": "",
+      "lastName": "acharya",
+      "address": "Janak Path, Madhumara",
+      "city": "Biratnagar",
+      "state": "province 01",
+      "postalCode": "56613",
+      "id": 3
+    },
+    {
+      "firstName": "Bipul",
+      "middleName": "",
+      "lastName": "Katuwal",
+      "address": "Janak Path, Madhumara",
+      "city": "Biratnagar",
+      "state": "province 01",
+      "postalCode": "56613",
+      "id": 4
+    },
+    {
+      "firstName": "shyam",
+      "middleName": "",
+      "lastName": "Katuwal",
+      "address": "Janak Path, Madhumara",
+      "city": "Biratnagar",
+      "state": "province 01",
+      "postalCode": "56613",
+      "id": 5
+    },
+    {
+      "firstName": "rosha",
+      "middleName": "",
+      "lastName": "Katuwal",
+      "address": "Janak Path, Madhumara",
+      "city": "Biratnagar",
+      "state": "province 01",
+      "postalCode": "56613",
+      "id": 6
+    },
+    {
+      "firstName": "Bipul",
+      "middleName": "",
+      "lastName": "Katuwal",
+      "address": "Janak Path, Madhumara",
+      "city": "Biratnagar",
+      "state": "province 01",
+      "postalCode": "56613",
+      "id": 7
+    },
+    {
+      "firstName": "Bipul",
+      "middleName": "",
+      "lastName": "Katuwal",
+      "address": "Janak Path, Madhumara",
+      "city": "Biratnagar",
+      "state": "province 01",
+      "postalCode": "56613",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
